@@ -33,7 +33,7 @@
 ```javascript
 class FullStackDeveloper {
   constructor() {
-    this.name = "Your Name";
+    this.name = "Rakotoarison Harilanto Danih Stephane";
     this.role = "Full Stack Developer";
     this.language_spoken = ["en_US", "fr_FR"];
     this.code = {
@@ -53,10 +53,11 @@ class FullStackDeveloper {
         development: ["VSCode", "PHPStorm", "DataGrip"],
         design: ["Photoshop", "Adobe XD"],
         devOps: ["Docker", "Jenkins", "Linux"],
-        database: ["Postgres", "OpenWebUI"],
+        database: ["Postgres"],
         version_control: ["Git", "Bitbucket"],
         package_managers: ["NPM", "Yarn"],
-        collaboration: ["Atlassian", "RocketChat"]
+        collaboration: ["Atlassian", "JIRA", "RocketChat"],
+        IA: ["OpenWebUI", "ollama", "Hugging Face"]
       }
     };
   }
@@ -110,11 +111,11 @@ class FullStackDeveloper {
         <br>MySQL
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="PHP" width="65" height="65" />
+        <img src="https://imgs.search.brave.com/bEkTo-Yx5rgPUbJxBW0z_pma_44oNigDxHyC687dOAY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8y/LzI3L1BIUC1sb2dv/LnN2Zw" alt="File:PHP-logo.svg" class="svelte-1hvhtt0 loaded" width="65" >
         <br>PHP
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="Linux" width="65" height="65" />
+        <img src="https://imgs.search.brave.com/vSEuvOntT8Z9q6ehyhYuJX32nbBWS6_8gvPj4xX8bA4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2RkL0xpbnV4X2xv/Z28uanBn" alt="File:Linux logo.jpg" class="svelte-1hvhtt0 loaded" width="65" >
         <br>Linux
       </td>
     </tr>
